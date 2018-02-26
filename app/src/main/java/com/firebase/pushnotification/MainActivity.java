@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         StringBuilder text = new StringBuilder("");
 
-        text.append("Message Details for notification:");
+        text.append("Message Details for notification message:");
         text.append("\n");
         text.append("\n");
 
